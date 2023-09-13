@@ -1,0 +1,4 @@
+Podemos utilizar:
+id - um seletor único,
+class
+e o próprio nome da tag que no caso seria span
